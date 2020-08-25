@@ -20,15 +20,16 @@
     >
       User
     </router-link>
-<!--    <router-link-->
-<!--        class="nav-link"-->
-<!--        active-class="active"-->
-<!--        style="cursor: pointer"-->
-<!--        to="/user"-->
-<!--        tag="li"-->
-<!--    >-->
-<!--      User22-->
-<!--    </router-link>-->
+<!--    Потрібно прописати оригінальний шлях to-->
+    <router-link
+        class="nav-link"
+        active-class="active"
+        style="cursor: pointer"
+        to="/no-page"
+        tag="li"
+    >
+      NO PAGE
+    </router-link>
   </ul>
 </template>
 
