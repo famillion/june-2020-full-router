@@ -1,24 +1,10 @@
-# routerlesson
+Створити сайт візитку (Текст не важливий, дизайн також)
 
-## Project setup
-```
-npm install
-```
+Має бути 3 компоненти (Home, Contacts, MyProjects);
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Компонент Home має мати фотку, картинку і паро параграфів з текстом..
+Компонент Contacts має мати поле з контакнами, можете також вставити гугл мепс за допомогою ай фрейм
+Компонент MyProjects має мати ваш тудуліст)) (поки що)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Потрібно створити масив роутів; підключити router-view, а також не забуваєм в main.js заюзати роутер.
+Аппка має працювати без перезагрузки сторінок.
